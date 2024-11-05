@@ -1,2 +1,2 @@
 # PSI_1F_24_25
-Disciplina de PSI - 10º ano
+Materiais de apoio à Disciplina de PSI - 10º ano
